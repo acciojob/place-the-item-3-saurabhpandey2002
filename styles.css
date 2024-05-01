@@ -1,7 +1,12 @@
+.holder div{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
 .holder{
-   display: flex;
-   justify-content: space-between;
-   flex-wrap: wrap;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 
 }
 /* Your CSS Code here. */
